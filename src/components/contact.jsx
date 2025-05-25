@@ -41,7 +41,7 @@ const Contact = () => {
               WhatsApp
             </a>
             <a
-              href="https://www.google.com/maps/place/Ambawat+Boys+PG+in+Sector+31/@28.4503913,77.0484852,17.64z/data=!4m6!3m5!1s0x390d1913d062b313:0x25f7ffbeb0077106!8m2!3d28.4503626!4d77.0484814"
+              href="https://www.google.com/maps/place/Ambawat+Boys+PG+in+Sector+31/@28.4503626,77.0484814,17z/data=!3m1!4b1!4m6!3m5!1s0x390d1913d062b313:0x25f7ffbeb0077106!8m2!3d28.4503626!4d77.0484814!16s%2Fg%2F11rfm2ydff?entry=ttu&g_ep=EgoyMDI1MDUyMS4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-blue-100 text-blue-600 px-4 py-2 rounded-lg shadow hover:bg-blue-200 transition text-center"
