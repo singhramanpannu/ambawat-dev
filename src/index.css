@@ -1,0 +1,11 @@
+/* index.css */
+html {
+  scroll-behavior: smooth;
+  scroll-padding-top: 6rem; /* Adjust for fixed navbar height */
+}
+
+body {
+  overscroll-behavior-y: contain; /* Prevent rubber banding on mobile */
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
