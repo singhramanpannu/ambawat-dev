@@ -33,7 +33,7 @@ const Contact = () => {
           {/* Action Buttons */}
           <div className="flex flex-col sm:flex-row gap-4">
             <a
-              href="https://wa.me/919876543210"
+              href="https://wa.me/919899536278"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-green-100 text-green-700 px-4 py-2 rounded-lg shadow hover:bg-green-200 transition text-center"
