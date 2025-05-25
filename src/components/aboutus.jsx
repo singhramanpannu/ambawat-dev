@@ -24,7 +24,7 @@ const AboutUsSection = () => {
             About Us
           </h4>
           <h2 className="text-4xl md:text-5xl font-extrabold text-gray-900 font-serif leading-tight">
-  More Than Just a PG — It’s Where You Belong
+  More Than Just a PG, It’s Where You Belong
 </h2>
 <p className="text-gray-600 text-lg leading-relaxed">
   Whether you’re starting a new chapter as a student or settling in for work, Ambawat PG offers the right mix of comfort, convenience, and care. Our fully furnished rooms, friendly atmosphere, and round-the-clock support make it easy to feel at home — from day one.
